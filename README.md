@@ -1,7 +1,6 @@
 # Catch The Diamond 🎮💎
 
 A simple 2D arcade-style game built using **Python** and **OpenGL**, where the player controls a catcher to collect falling diamonds. The goal is to catch the diamonds before they reach the bottom of the screen.
-
 ---
 
 ## 📌 Project Overview
@@ -13,6 +12,8 @@ A simple 2D arcade-style game built using **Python** and **OpenGL**, where the p
 - Collision detection
 
 This project is suitable for students learning **Computer Graphics** or **Python-based game development**.
+
+a .pyc file is here for preview
 
 ---
 
